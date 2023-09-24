@@ -1,5 +1,13 @@
 # Small pet projetcs - Python programming language.
 
+ - [Rename by CSV](https://github.com/lexxai/rename_by_csv)
+
+   Rename files on folder by CSV file with list files. 
+
+ - [txt2csv](https://github.com/lexxai/txt2csv)
+
+   Read txt files from input folders, and store rows of txt file as columns records to csv file.
+
 - [CSV folder compare](https://github.com/lexxai/csv_folder_compare)
 
   Intersection of csv files and folder list files by a key column. Where column is a string with the file name. Result saved to new csv file.

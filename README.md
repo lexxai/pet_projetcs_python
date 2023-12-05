@@ -1,5 +1,9 @@
 # Small pet projetcs - Python programming language.
 
+ - [Django SQL GROUP BY](https://github.com/lexxai/python_django_groupby)
+   
+   Let's learn how to solve the "SQL GROUP BY" task with Django framework. Python.
+
  - [Rename by CSV](https://github.com/lexxai/rename_by_csv)
 
    Rename files on folder by CSV file with list files. 
